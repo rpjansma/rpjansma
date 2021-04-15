@@ -1,5 +1,4 @@
 # Hello! I'm Raul
-Check my road until here on Linkedin
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-paes/)](https://www.linkedin.com/in/raul-paes/)
 
 ### About me
