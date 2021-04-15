@@ -1,6 +1,6 @@
 # Hello! I'm Raul
-<p>Check my road until here on Linkedin</p>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/raul-paes/)
+Check my road until here on Linkedin
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-paes/)](https://www.linkedin.com/in/raul-paes/)
 
 ### About me
 Quality assurance intern at [@tokenlab](https://www.tokenlab.com.br/pt/). 
