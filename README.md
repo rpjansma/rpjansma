@@ -3,7 +3,6 @@
 
 ### About me
 Quality assurance intern at [@tokenlab](https://www.tokenlab.com.br/pt/). 
-Software development student. Back-end enthusiast, using Node.js and Spring boot.
-My front-end greatest experience is with Angular, my second choice for sure is React, i'm developing the skill basis and appreciating, awesome framework! 🤘
+Software development student. Back-end enthusiast, using Node.js and Spring boot. My front-end greatest experience is with Angular, my second choice for sure is React, i'm developing the skill basis and appreciating, awesome framework! 🤘
 
 💻 My latest [project](https://calendar-frontend-7fvgjsxjz-rpjansma.vercel.app/#/). Is so fun work with Angular and Node.js 🥰
