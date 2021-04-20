@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-paes/)](https://www.linkedin.com/in/raul-paes/)
 
 ### About me
-Quality assurance intern at[@tokenlab](https://www.tokenlab.com.br/pt/). 
+Quality assurance intern at [@tokenlab](https://www.tokenlab.com.br/pt/). 
 
 <p>Software development student. Back-end enthusiast, using Node.js and Spring boot. My front-end greatest experience is with Angular, my second choice for sure is React, i'm developing the skill basis and appreciating, awesome framework! 🤘 <p>
 
