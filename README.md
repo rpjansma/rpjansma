@@ -1,4 +1,4 @@
-# Hello! I'm Raul
+# Hi! Is nice to have you here, call me Raul :)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-paes/)](https://www.linkedin.com/in/raul-paes/)
 
 ### About me
