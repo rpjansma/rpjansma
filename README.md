@@ -1,9 +1,11 @@
-# Hi! Is nice to have you here, call me Raul :)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-paes/)](https://www.linkedin.com/in/raul-paes/)
+# Hi!
+Five years working in a bank insurance company made me a generalist professional, improved my soft-skills on a leadership position and hard-skills to analysis and refactor processes.
 
 ### About me
-Quality assurance intern at [@tokenlab](https://www.tokenlab.com.br/pt/). 
+Web Developer intern at [@tokenlab](https://www.tokenlab.com.br/pt/). 
 
-<p>Software development student. Back-end enthusiast, using Node.js and Spring boot. My front-end greatest experience is with Angular, my second choice for sure is React, i'm developing the skill basis and appreciating, awesome framework! 🤘 <p>
+<p>Back-end enthusiast, using Node.js and Spring boot. Angular and React are my favorite framework to build front-end. 🤘<p>
 
 💻 My latest [project](https://calendar-frontend-7fvgjsxjz-rpjansma.vercel.app/#/). Is so fun work with Angular and Node.js 🥰
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-paes/)](https://www.linkedin.com/in/raul-paes/)
