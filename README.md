@@ -1,5 +1,5 @@
 # Hi! Call me Raul :)
-Web Developer intern at [@tokenlab](https://www.tokenlab.com.br/pt/) 💻
+Web Developer intern at [@BTGPactual](https://www.btgpactual.com/) 💻
 
 ### About me
 Back-end enthusiast, using Node.js and Spring boot. Angular and React are my favorite framework to build front-end 🤘
