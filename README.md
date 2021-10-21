@@ -1,6 +1,6 @@
 # Hi! Call me Raul :)
-Software engineer intern at [@BTGPactual](https://www.btgpactual.com/) 💻
-Handling with microservices within clean architecture in Kotlin, with Spring.
+Software developer trainee at [@Amdocs](https://www.amdocs.com/) 💻
+Back-end development in Java with Spring.
 
 Backend enthusiast, guided by solving problems with technology, efficiently.
 Love to learn and teach.
