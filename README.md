@@ -1,5 +1,5 @@
 # Hi! Call me Raul :)
-Software developer trainee at [@Amdocs](https://www.amdocs.com/) 💻
+Software developer trainee at [@Sensedia](https://www.sensedia.com/) 💻
 Back-end development in Java with Spring.
 
 Backend enthusiast, guided by solving problems with technology, efficiently.
