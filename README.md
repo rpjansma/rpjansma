@@ -1,6 +1,5 @@
 # Hi! Call me Raul :)
-Software developer at [@PagBank PagSeguro](https://pagseguro.uol.com.br/conta-digital/conta-digital-gratis#rmcl) 💻
-Back-end development in Java with Spring.
+Software engineer at [@PagBank PagSeguro](https://pagseguro.uol.com.br/conta-digital/conta-digital-gratis#rmcl)
 
 Backend enthusiast, guided by solving problems with technology, efficiently.
 Love to learn and teach.
