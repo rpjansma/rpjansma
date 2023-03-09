@@ -5,6 +5,7 @@ Engenheiro de software na [@PagBank PagSeguro](https://pagseguro.uol.com.br/cont
 Entusiasta de backend, orientado pela solução de problemas com tecnologia, de forma eficiente.
 Adoro aprender e ensinar.
 
+
 [EN]
 # Hi! I'm Raul, welcome to my profile :)
 Software engineer at [@PagBank PagSeguro](https://pagseguro.uol.com.br/conta-digital/conta-digital-gratis#rmcl)
