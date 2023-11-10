@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rpjansma" alt="rpjansma" /></a> </p>
 
-- 🌱 I’m currently learning **More about frontend and backend with javascript**
+- 🌱 I’m currently learning **more about frontend and backend with javascript**
 
-- 📫 How to reach me **https://www.linkedin.com/in/raul-paes/**
+- 📫 Reach me at Linkedin!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
