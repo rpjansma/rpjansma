@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raul Paes</h1>
-<h3 align="center">A seasoned Backend Engineer at <a href="https://linkedin.com/in/raul-paes" target="_blank">@PagBank</a> with a rich history of building and maintaining innovative products across diverse domains</h3>
+<h3 align="center">A seasoned Backend Engineer at <a href="https://pagseguro.uol.com.br/?_ga=2.88076636.511043696.1699581201-1397420544.1699581201" target="_blank">@PagBank</a> with a rich history of building and maintaining innovative products across diverse domains</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rpjansma" alt="rpjansma" /></a> </p>
 
